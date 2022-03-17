@@ -1,3 +1,5 @@
+#### this is a fork of the https://github.com/MenuDocs/erela.js module for personal use
+
 <div align = "center">
     <img src = "https://solaris-site.netlify.app/projects/erelajs/images/transparent_logo.png">
     <hr>
@@ -6,18 +8,18 @@
 <img src="https://img.shields.io/discord/416512197590777857?color=7289DA&label=Support&logo=discord&style=for-the-badge" alt="Discord">
 </a>
 
-<a href="https://www.npmjs.com/package/erela.js">
-<img src="https://img.shields.io/npm/dw/erela.js?color=CC3534&logo=npm&style=for-the-badge" alt="Downloads">
+<a href="https://www.npmjs.com/package/@arturoatomplay/erela.js">
+<img src="https://img.shields.io/npm/dw/@arturoatomplay/erela.js?color=CC3534&logo=npm&style=for-the-badge" alt="Downloads">
 </a>
 
-<a href="https://www.npmjs.com/package/erela.js">
-<img src="https://img.shields.io/npm/v/erela.js?color=red&label=Version&logo=npm&style=for-the-badge" alt="Npm version">
+<a href="https://www.npmjs.com/package/@arturoatomplay/erela.js">
+<img src="https://img.shields.io/npm/v/@arturoatomplay/erela.js?color=red&label=Version&logo=npm&style=for-the-badge" alt="Npm version">
 </a>
 
 <br>
 
-<a href="https://github.com/MenuDocs/erela.js">
-<img src="https://img.shields.io/github/stars/MenuDocs/erela.js?color=333&logo=github&style=for-the-badge" alt="Github stars">
+<a href="https://github.com/arturoAtomplay/erela.js">
+<img src="https://img.shields.io/github/stars/arturoAtomplay/erela.js?color=333&logo=github&style=for-the-badge" alt="Github stars">
 </a>
 
 <a href="https://github.com/MenuDocs/erela.js/blob/master/LICENSE">
@@ -49,13 +51,13 @@
 ##### **NPM**
 
 ```bash
-npm install erela.js
+npm install @arturoatomplay/erela.js
 ```
 
 ##### **Yarn**
 
 ```bash
-yarn add erela.js
+yarn add @arturoatomplay/erela.js
 ```
 
 **Note**: _Node **v16** is required!_
@@ -77,7 +79,6 @@ You can use plugins below to extend Erela.js' features easily.
 Note: These are the only ones shown before being published, check the GitHub repository for a complete list.
 
 - [erela.js-spotify](https://github.com/MenuDocs/erela.js-spotify) - Converts a Spotify URL into a UnresolvedTrack to play later.
-
 
 ## Contributors
 
